@@ -10,11 +10,13 @@ Open the latest release and tap the `LinkGrabber-vX.Y.Z.apk` file under **Assets
 
 - Built-in browser that captures the **final file link** when a site starts its download, and copies it automatically
 - Works with DataNodes, GoFile, AkiraBox, DataVaults, FileDitch, FileKeeper, Cybar and similar sites
-- Copy, share, open in a download manager, or copy with cookies & headers
-- Chrome-like tabs, favorites and Google search from the address bar
+- Copy, share, send to your download manager in one tap (or automatically), or download inside the app with the site's cookies
+- Links history with search and export; offers to open links you copy in other apps
+- Chrome-like tabs (including incognito), favorites and search from the address bar
 - Built-in ad blocker with auto-updating filter lists (EasyList, EasyPrivacy, Peter Lowe, uBlock Badware…), custom lists and your own rules
 - Blocks ad pop-ups and redirects
-- In-app updates
+- In-app updates, verified before installing
+- Settings for search engine, theme, language and privacy; crash reports you can share
 - Material 3 design, light & dark themes, English and Arabic
 
 ## How to use
@@ -33,6 +35,6 @@ Open the latest release and tap the `LinkGrabber-vX.Y.Z.apk` file under **Assets
 
 افتح آخر إصدار، واضغط ملف `LinkGrabber-vX.Y.Z.apk` تحت **Assets**. بعد التثبيت أول مرة يحدّث التطبيق نفسه من هذه الصفحة.
 
-**المزايا:** متصفح مدمج يلتقط رابط الملف النهائي وينسخه تلقائياً، علامات تبويب مثل Chrome، مواقع مفضلة، بحث Google من شريط العنوان، مانع إعلانات بقوائم تتحدث تلقائياً مع إمكانية إضافة قوائم وقواعد خاصة، تحديث تلقائي من داخل التطبيق، تصميم حديث بوضع فاتح وداكن، باللغتين الإنجليزية والعربية.
+**المزايا:** متصفح مدمج يلتقط رابط الملف النهائي وينسخه تلقائياً، إرسال الرابط إلى برنامج التحميل بضغطة أو تلقائياً، تنزيل داخل التطبيق، سجل للروابط مع البحث والتصدير، علامات تبويب مثل Chrome مع وضع خفي، مواقع مفضلة، بحث Google من شريط العنوان، مانع إعلانات بقوائم تتحدث تلقائياً مع إمكانية إضافة قوائم وقواعد خاصة، تحديث تلقائي من داخل التطبيق، تصميم حديث بوضع فاتح وداكن، باللغتين الإنجليزية والعربية.
 
 **طريقة الاستخدام:** افتح صفحة الملف، وأكمل خطوات الموقع واضغط زر التحميل فيه، وسيظهر الرابط المباشر في قائمة **الروابط** ويُنسخ تلقائياً.
