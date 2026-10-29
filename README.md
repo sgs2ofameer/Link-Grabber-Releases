@@ -13,6 +13,8 @@ Open the latest release and tap the `LinkGrabber-vX.Y.Z.apk` file under **Assets
 - Copy, share, send to your download manager in one tap (or automatically), or download inside the app with the site's cookies
 - Links history with search and export; offers to open links you copy in other apps
 - Chrome-like tabs (including incognito), favorites and search from the address bar
+- Download videos from pages (also while watching full screen); full-screen video, file uploads and camera/mic/location for websites
+- Backup and restore to a file
 - Built-in ad blocker with auto-updating filter lists (EasyList, EasyPrivacy, Peter Lowe, uBlock Badware…), custom lists and your own rules
 - Blocks ad pop-ups and redirects
 - In-app updates, verified before installing
@@ -38,3 +40,7 @@ Open the latest release and tap the `LinkGrabber-vX.Y.Z.apk` file under **Assets
 **المزايا:** متصفح مدمج يلتقط رابط الملف النهائي وينسخه تلقائياً، إرسال الرابط إلى برنامج التحميل بضغطة أو تلقائياً، تنزيل داخل التطبيق، سجل للروابط مع البحث والتصدير، علامات تبويب مثل Chrome مع وضع خفي، مواقع مفضلة، بحث Google من شريط العنوان، مانع إعلانات بقوائم تتحدث تلقائياً مع إمكانية إضافة قوائم وقواعد خاصة، تحديث تلقائي من داخل التطبيق، تصميم حديث بوضع فاتح وداكن، باللغتين الإنجليزية والعربية.
 
 **طريقة الاستخدام:** افتح صفحة الملف، وأكمل خطوات الموقع واضغط زر التحميل فيه، وسيظهر الرابط المباشر في قائمة **الروابط** ويُنسخ تلقائياً.
+
+---
+
+© 2026 Eng. Ameer Al-Qurashi — المهندس أمير القريشي. All rights reserved. جميع الحقوق محفوظة.
